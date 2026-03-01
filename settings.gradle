@@ -1,0 +1,5 @@
+// Root project configuration for Gradle
+
+// This is the settings.gradle file
+
+rootProject.name = 'PoDChain-Android'
